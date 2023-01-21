@@ -1,0 +1,2 @@
+# friendhub
+Projekt Webanwendung
